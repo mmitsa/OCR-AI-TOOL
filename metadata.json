@@ -1,0 +1,5 @@
+{
+  "name": "Chandra-Bot AI Archiving Dashboard",
+  "description": "An enterprise-grade ERP dashboard for managing a hybrid AI-powered document archiving and RPA system. Features automated OCR with Chandra, logical analysis with Gemini, and RPA integration.",
+  "requestFramePermissions": []
+}
